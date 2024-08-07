@@ -8,7 +8,7 @@
 
 Paso a paso:
 
-- Clona y descarga el código que se encuentra en el repositorio.
+- Descarga el código que se encuentra en el repositorio.
 - Extrae y abre el proyecto en Visual Studio Code.
 - Instala las dependencias de Python.
 - Crea un entorno virtual y actívalo: python -m venv venv y .\venv\Scripts\Activate.
